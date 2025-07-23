@@ -1,4 +1,5 @@
 ![amazon cover page](https://github.com/user-attachments/assets/f268c7b0-4a00-4ff6-84c7-0ab675081e18)
+
 This repository contains all the Python and Mathematica scripts from the book:
 
 # Classical Mechanics: A computational approach with examples using Mathematic and Python - Second Edition
