@@ -2,7 +2,7 @@
 
 This repository contains all the Python and Mathematica scripts from the book:
 
-# Classical Mechanics: A computational approach with examples using Mathematic and Python - Second Edition
+# Classical Mechanics: A computational approach with examples using Mathematica and Python - Second Edition
 
 **by Christopher W. Kulp and Vasilis Pagonis **
 
@@ -31,16 +31,17 @@ It is an ideal textbook for undergraduate students in physics, mathematics, and 
 
 * Numerous example problems using both analytical and computational methods, as well as explanations as to how and why specific techniques were used
 
-* containing specific example codes to help students learn computational methods and write their own algorithms
+* Contains specific example codes to help students learn computational methods and write their own algorithms
 
-**Online resources: Solutions Manual and GitHub webiste with Python and Mathematics codes**
+**Online resources: Solutions Manual and GitHub website with Python and Mathematics codes**
 * A solutions manual is available via the Routledge Instructor Hub.
 
 * All example codes in the book are available via the Support Material tab, and at the book’s GitHub page: **https://github.com/vpagonis/Classical_Mechanics_2nd_Edition**
 
-**_Vasilis Pagonis_** is Professor of Physics Emeritus at McDaniel College, Maryland, USA. His research area is applications of thermally and optically stimulated luminescence. He taught courses in mathematical physics, classical and quantum mechanics, analog and digital electronics and numerous general science courses. Dr. Pagonis’ resume lists more than 200 peer-reviewed publications in international journals. He is currently associate editor of the journal Radiation Measurements. He is co-author with Christopher Kulp of the undergraduate textbook “Classical Mechanics: a computational approach, with examples in Python and Mathematica” (CRC Press, 2020). He has also co-authored four graduate-level textbooks in the field of luminescence dosimetry, and most recently published the book “Luminescence Signal analysis using Python” (Springer, 2022).
+**_Christopher W. Kulp_** is the John P. Graham Teaching Professor of Physics at Lycoming College. He has been teaching undergraduate physics at all levels for 20 years. Dr. Kulp’s research focuses on modeling complex systems, time series analysis, and machine learning. He has published 30 peer-reviewed papers in international journals, many of which include student co-authors. He is also co-author with Vasilis Pagonis of the undergraduate textbook “Mathematical Methods using Python: Applications in Physics and Engineering” (CRC Press, 2024).
 
-**_Christopher W. Kulp_** is the John P. Graham Teaching Professor of Physics at Lycoming College. He has been teaching undergraduate physics at all levels for 20 years. Dr. Kulp’s research focuses on modelling complex systems, time series analysis, and machine learning. He has published 30 peer-reviewed papers in international journals, many of which include student co-authors. He is also co-author of the undergraduate textbook “Classical Mechanics: a computational approach, with examples in Python and Mathematica” (CRC Press, 2020).
+**_Vasilis Pagonis_** is Professor of Physics Emeritus at McDaniel College, Maryland, USA. His research area is applications of thermally and optically stimulated luminescence. He taught courses in mathematical physics, classical and quantum mechanics, analog and digital electronics and numerous general science courses. Dr. Pagonis’ resume lists more than 200 peer-reviewed publications in international journals. He is currently associate editor of the journal Radiation Measurements. He is co-author with Christopher Kulp of the undergraduate textbook “Mathematical Methods using Python: Applications in Physics and Engineering” (CRC Press, 2024). He has also co-authored four graduate-level textbooks in the field of luminescence dosimetry, and most recently published the book “Luminescence Signal analysis using Python” (Springer, 2022).
+
 
 **TO OUR READERS**
 
